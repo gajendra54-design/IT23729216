@@ -108,7 +108,7 @@ python test_automation.py --excel "IT23729216.xlsx" --url "https://www.pixelssui
 
 ```
 IT23729216/
-│── IT23729216/
+│── IT23729216.txt
 │── IT23729216.xlsx
 │── test_automation.py
 │── README.md
