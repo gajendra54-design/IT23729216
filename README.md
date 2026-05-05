@@ -71,7 +71,6 @@ Each test case includes:
 
 ```bash
 git clone https://github.com/gajendra54-design/IT23729216.git
-cd IT23729216
 ```
 
 ---
